@@ -1,4 +1,7 @@
-# vuebaru
+# apps untuk chasier versi beta
+
+terdapat 2 hak acces yaitu admin dan cashier
+accesnya sendiri admin bisa mengakses semua halaman, sedangkan cashier hanay bisa mengakses halaman item/product
 
 ## Project setup
 ```
